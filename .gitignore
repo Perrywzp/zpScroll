@@ -57,7 +57,7 @@ Temporary Items
 .idea/
 node_modules/
 
-public/libs/*
+ libs/*
 
 public/upload/images/*
 public/upload/media/*
